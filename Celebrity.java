@@ -23,9 +23,34 @@ class Celebrity{
         }
         return celebrity;
     }
+
+    // optimal approach 
+    public static int celebrityOptimal(int[][] matrix){
+        int n = matrix.length;
+        int top = 0 ;
+        int down = n-1;
+        while(top < down){
+            if(matrix[top][down] == 1 ){
+                top ++; 
+            }else if(matrix[down][top] == 1){
+                down--;
+            }else{
+                top ++ ;
+                down--;
+            }
+        }
+        if(top > down) return -1;
+        for(int i = 0 ; i < n;i++){
+            if(i==top)continue;
+            if(matrix[top][i] == 1 || matrix[i][top] == 0){
+                return -1;
+            }
+        }
+        return top;
+    }
     public static void main(String[] args) {
         int[][] matrix = {{0,1,1,0},{0,0,0,0},{1,1,0,0},{0,1,1,0}};
-        int c = celeb(matrix);
+        int c = celebrityOptimal(matrix);
         System.out.println(c);
 
     }
