@@ -1,3 +1,4 @@
+import java.util.*;
 class NiceSubarrays{
     
     public int numberOfSubarrays(int[] nums, int k) {
