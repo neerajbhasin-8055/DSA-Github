@@ -87,6 +87,14 @@ Files and descriptions
 - Approach: Uses the atMost trick: exactlyK = atMost(k) - atMost(k-1). `atMost` is computed with a sliding-window and a frequency HashMap.
 - Complexity: Time O(n), Space O(k).
 
+`ProcessStringWithSpecialOperations.java`
+- Problem: Process a string where letters/digits append to output and special characters modify it. Operations implemented:
+	- `#`: duplicate the current output (append a copy of current string)
+	- `%`: reverse the current output
+	- `*`: delete the last character (backspace)
+- Approach: Iterate characters and apply each operation on a `StringBuilder`. Special handling for `#` converts the builder to a string and appends it.
+- Complexity: Time O(n * L) in practice (where L is current output length); worst-case time can grow quickly if many `#` operations cause repeated doubling. Space O(L) for the resulting string.
+
 `scripts/generate_readme.ps1` and `scripts/watch_and_push.ps1`
 - Helper PowerShell scripts included for convenience: one to regenerate README and another to watch for changes and push commits.
 
