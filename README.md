@@ -28,6 +28,7 @@ This repository contains Java solutions for common data structures and algorithm
 | `ProcessStringWithSpecialOperations.java` | Process String With Special Operations | Stack / simulated result build | Process characters and special operators sequentially to reconstruct the final string. |
 | `ReversePolishNotation.java` | Evaluate Reverse Polish Notation | Stack evaluation | Push numbers and apply operators to compute the postfix expression result. |
 | `SlidingWindowMaximum.java` | Sliding Window Maximum | Monotonic deque | Maintain a decreasing deque of indices to return each window's maximum efficiently. |
+| `SortColorsLeetcode.java` | Sort Colors | Dutch National Flag (three pointers) | One-pass partitioning using low/mid/high pointers to place 0s,1s,2s; O(n) time, O(1) space. |
 | `StackUsingArrays.java` | Stack Using Arrays | Array-backed stack implementation | Implement push/pop/top/isEmpty using a fixed-size array and pointer. |
 | `StockSpan.java` | Stock Span | Monotonic stack | Use a stack of previous price indices to compute each day's span quickly. |
 | `subarrayWithKDifferentIntegers.java` | Subarrays with K Different Integers | Sliding window helper count | Use at-most-K and at-most-(K-1) window counts to derive exactly-K subarrays. |
