@@ -27,6 +27,7 @@ This repository contains Java solutions for common data structures and algorithm
 | `NiceSubarrays.java` | Count Nice Subarrays | Prefix sum of odd counts | Count subarrays with exactly k odd numbers using prefix frequency accumulation. |
 | `ProcessStringWithSpecialOperations.java` | Process String With Special Operations | Stack / simulated result build | Process characters and special operators sequentially to reconstruct the final string. |
 | `ReversePolishNotation.java` | Evaluate Reverse Polish Notation | Stack evaluation | Push numbers and apply operators to compute the postfix expression result. |
+| `RemoveDuplicateLetters.java` | Remove Duplicate Letters | Monotonic stack with frequency tracking | Use a stack to build the lexicographically smallest subsequence by greedily removing larger duplicates when their future occurrences are guaranteed. |
 | `SlidingWindowMaximum.java` | Sliding Window Maximum | Monotonic deque | Maintain a decreasing deque of indices to return each window's maximum efficiently. |
 | `SortColorsLeetcode.java` | Sort Colors | Dutch National Flag (three pointers) | One-pass partitioning using low/mid/high pointers to place 0s,1s,2s; O(n) time, O(1) space. |
 | `StackUsingArrays.java` | Stack Using Arrays | Array-backed stack implementation | Implement push/pop/top/isEmpty using a fixed-size array and pointer. |
