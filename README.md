@@ -1,5 +1,5 @@
 ﻿# DSA Github
-
+# Updated
 This repository contains Java solutions for common data structures and algorithms problems, organized as individual Java files.
 
 ## Problem Solutions
