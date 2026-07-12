@@ -45,3 +45,15 @@ This repository contains Java solutions for common data structures and algorithm
 ## Notes
 
 Each `.java` file is intended to solve a specific algorithmic challenge, typically from LeetCode or similar competitive programming platforms.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0041-first-missing-positive](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/0041-first-missing-positive) |
+## Hash Table
+|  |
+| ------- |
+| [0041-first-missing-positive](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/0041-first-missing-positive) |
+<!---LeetCode Topics End-->
