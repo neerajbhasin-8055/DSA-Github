@@ -12,7 +12,6 @@ class Solution {
         int j = prefGcd.length - 1;
         long sum = 0;
         while (i < j) {
-            // if(i==j && prefGcd.length/2 != 0) break;
             sum = sum + gcd(prefGcd[i], prefGcd[j]);
             System.out.println(sum);
             i++;
