@@ -52,8 +52,29 @@ Each `.java` file is intended to solve a specific algorithmic challenge, typical
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/0041-first-missing-positive) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/0041-first-missing-positive) |
+## Math
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Two Pointers
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Sorting
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Simulation
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Number Theory
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
