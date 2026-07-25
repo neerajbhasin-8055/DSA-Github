@@ -82,19 +82,23 @@ Each `.java` file is intended to solve a specific algorithmic challenge, typical
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/0145-binary-tree-postorder-traversal) |
 ## Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/0145-binary-tree-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
