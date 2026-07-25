@@ -77,4 +77,20 @@ Each `.java` file is intended to solve a specific algorithmic challenge, typical
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Stack
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/0144-binary-tree-preorder-traversal) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
