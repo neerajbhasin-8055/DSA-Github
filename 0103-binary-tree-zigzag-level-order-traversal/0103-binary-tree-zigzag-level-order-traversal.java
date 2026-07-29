@@ -20,7 +20,7 @@ class Solution {
         }
         Queue<TreeNode> q = new LinkedList<>();
         q.add(root);
-        int level = 1;
+        int level = 0;
         List<List<Integer>> result = new ArrayList<>();
         while(!q.isEmpty()){
             int size = q.size();
@@ -35,7 +35,7 @@ class Solution {
                     q.add(node.right);
                 }
             }
-            if(level%2 ==0){
+            if(level%2 !=0){
                 Collections.reverse(ls);
             }
             result.add(ls);
