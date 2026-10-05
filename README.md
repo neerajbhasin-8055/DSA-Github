@@ -53,6 +53,7 @@ Each `.java` file is intended to solve a specific algorithmic challenge, typical
 | ------- |
 | [0041-first-missing-positive](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/0041-first-missing-positive) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [1929-concatenation-of-array](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/1929-concatenation-of-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
@@ -77,6 +78,7 @@ Each `.java` file is intended to solve a specific algorithmic challenge, typical
 ## Simulation
 |  |
 | ------- |
+| [1929-concatenation-of-array](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/1929-concatenation-of-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
 |  |
