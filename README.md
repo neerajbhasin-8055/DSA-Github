@@ -52,6 +52,7 @@ Each `.java` file is intended to solve a specific algorithmic challenge, typical
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/0014-longest-common-prefix) |
 | [0041-first-missing-positive](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/0041-first-missing-positive) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [1929-concatenation-of-array](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/1929-concatenation-of-array) |
@@ -201,5 +202,10 @@ Each `.java` file is intended to solve a specific algorithmic challenge, typical
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/0242-valid-anagram) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
