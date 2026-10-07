@@ -56,6 +56,7 @@ Each `.java` file is intended to solve a specific algorithmic challenge, typical
 | [0041-first-missing-positive](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0912-sort-an-array](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/0912-sort-an-array) |
 | [1929-concatenation-of-array](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/1929-concatenation-of-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
@@ -81,6 +82,7 @@ Each `.java` file is intended to solve a specific algorithmic challenge, typical
 | ------- |
 | [0049-group-anagrams](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/0242-valid-anagram) |
+| [0912-sort-an-array](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/0912-sort-an-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
@@ -197,6 +199,7 @@ Each `.java` file is intended to solve a specific algorithmic challenge, typical
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0912-sort-an-array](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/0912-sort-an-array) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -212,4 +215,24 @@ Each `.java` file is intended to solve a specific algorithmic challenge, typical
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/0014-longest-common-prefix) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
