@@ -56,6 +56,7 @@ Each `.java` file is intended to solve a specific algorithmic challenge, typical
 | [0041-first-missing-positive](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0238-product-of-array-except-self](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/0238-product-of-array-except-self) |
 | [0912-sort-an-array](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/0912-sort-an-array) |
 | [1929-concatenation-of-array](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/1929-concatenation-of-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -235,4 +236,8 @@ Each `.java` file is intended to solve a specific algorithmic challenge, typical
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/0912-sort-an-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
