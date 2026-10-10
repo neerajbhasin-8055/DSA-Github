@@ -77,6 +77,7 @@ Each `.java` file is intended to solve a specific algorithmic challenge, typical
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/0125-valid-palindrome) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
@@ -211,6 +212,7 @@ Each `.java` file is intended to solve a specific algorithmic challenge, typical
 | ------- |
 | [0014-longest-common-prefix](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/0242-valid-anagram) |
 ## Trie
 |  |
