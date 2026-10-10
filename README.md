@@ -56,6 +56,7 @@ Each `.java` file is intended to solve a specific algorithmic challenge, typical
 | [0041-first-missing-positive](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/0238-product-of-array-except-self) |
 | [0912-sort-an-array](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/0912-sort-an-array) |
@@ -182,6 +183,7 @@ Each `.java` file is intended to solve a specific algorithmic challenge, typical
 ## Dynamic Programming
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Binary Lifting
 |  |
@@ -245,4 +247,8 @@ Each `.java` file is intended to solve a specific algorithmic challenge, typical
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/0238-product-of-array-except-self) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
