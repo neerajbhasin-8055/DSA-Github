@@ -60,6 +60,7 @@ Each `.java` file is intended to solve a specific algorithmic challenge, typical
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0229-majority-element-ii](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/0560-subarray-sum-equals-k) |
 | [0912-sort-an-array](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/0912-sort-an-array) |
 | [1929-concatenation-of-array](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/1929-concatenation-of-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -72,6 +73,7 @@ Each `.java` file is intended to solve a specific algorithmic challenge, typical
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0229-majority-element-ii](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/0242-valid-anagram) |
+| [0560-subarray-sum-equals-k](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/0560-subarray-sum-equals-k) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Math
@@ -251,6 +253,7 @@ Each `.java` file is intended to solve a specific algorithmic challenge, typical
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/0560-subarray-sum-equals-k) |
 ## Greedy
 |  |
 | ------- |
