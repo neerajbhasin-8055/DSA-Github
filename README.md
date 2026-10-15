@@ -53,6 +53,7 @@ Each `.java` file is intended to solve a specific algorithmic challenge, typical
 | ------- |
 | [0001-two-sum](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/0014-longest-common-prefix) |
+| [0018-4sum](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/0018-4sum) |
 | [0041-first-missing-positive](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -83,12 +84,14 @@ Each `.java` file is intended to solve a specific algorithmic challenge, typical
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/0018-4sum) |
 | [0125-valid-palindrome](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/0049-group-anagrams) |
 | [0229-majority-element-ii](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/0242-valid-anagram) |
