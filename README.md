@@ -59,6 +59,7 @@ Each `.java` file is intended to solve a specific algorithmic challenge, typical
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/0209-minimum-size-subarray-sum) |
 | [0229-majority-element-ii](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/0560-subarray-sum-equals-k) |
@@ -207,6 +208,7 @@ Each `.java` file is intended to solve a specific algorithmic challenge, typical
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/0222-count-complete-tree-nodes) |
 ## Bit Manipulation
 |  |
@@ -258,6 +260,7 @@ Each `.java` file is intended to solve a specific algorithmic challenge, typical
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/0560-subarray-sum-equals-k) |
 ## Greedy
@@ -271,5 +274,6 @@ Each `.java` file is intended to solve a specific algorithmic challenge, typical
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/0209-minimum-size-subarray-sum) |
 | [0567-permutation-in-string](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
