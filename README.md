@@ -82,6 +82,7 @@ Each `.java` file is intended to solve a specific algorithmic challenge, typical
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/0069-sqrtx) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
@@ -207,6 +208,7 @@ Each `.java` file is intended to solve a specific algorithmic challenge, typical
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/0222-count-complete-tree-nodes) |
@@ -276,4 +278,8 @@ Each `.java` file is intended to solve a specific algorithmic challenge, typical
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/0209-minimum-size-subarray-sum) |
 | [0567-permutation-in-string](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/0567-permutation-in-string) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
