@@ -56,6 +56,7 @@ Each `.java` file is intended to solve a specific algorithmic challenge, typical
 | [0018-4sum](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/0018-4sum) |
 | [0041-first-missing-positive](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/0049-group-anagrams) |
+| [0074-search-a-2d-matrix](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/0074-search-a-2d-matrix) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -209,6 +210,7 @@ Each `.java` file is intended to solve a specific algorithmic challenge, typical
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/0222-count-complete-tree-nodes) |
@@ -282,4 +284,8 @@ Each `.java` file is intended to solve a specific algorithmic challenge, typical
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/0069-sqrtx) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
