@@ -155,6 +155,7 @@ Each `.java` file is intended to solve a specific algorithmic challenge, typical
 | [0199-binary-tree-right-side-view](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -190,6 +191,7 @@ Each `.java` file is intended to solve a specific algorithmic challenge, typical
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/0199-binary-tree-right-side-view) |
+| [0547-number-of-provinces](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -288,4 +290,12 @@ Each `.java` file is intended to solve a specific algorithmic challenge, typical
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/0074-search-a-2d-matrix) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/neerajbhasin-8055/DSA-Github/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
