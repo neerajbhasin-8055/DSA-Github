@@ -15,7 +15,6 @@ class Solution {
             }
         }
         for (int i = 0; i < list.size(); i++) {
-            // visted[i] = true;
             for (int node : list.get(i)) {
                 if (visited[node] == false) {
                     dfs(node, list, visited);
